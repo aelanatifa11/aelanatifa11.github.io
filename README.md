@@ -1,7 +1,5 @@
 # Aelanatifa
-✨ Contoh Struktur README (Portofolio)
 
-markdown
 # Hi there, I'm Aelanatifa! 👋
 
 🎓 I'm a high school student passionate about health, data, and coding.
