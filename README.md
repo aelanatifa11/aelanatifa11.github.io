@@ -19,11 +19,10 @@
 - VS Code
 
 ## 📌 Mini Projects a.k.a. Practice 
-[view file here 
-](https://github.com/aelanatifa11/BasicPythonExercises)
+[See on GitHub](https://github.com/aelanatifa11/BasicPythonExercises)
 ### 🤖 Simple Chatbot
 A Python chatbot that greets the user and responds to inputs.
-🔗 [See on GitHub](link-ke-folder-project)
+🔗 [View file here](Simple_ChatBot_Introduction.py)
 
 ## 🧪 Projects 
 ### ✅ To-Do List Web App
