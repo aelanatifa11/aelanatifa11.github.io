@@ -3,6 +3,7 @@
 # Hi there, I'm Aelanatifa! 👋
 
 🎓 I'm a high school student passionate about health, data, and coding.
+
 💡 I want to be a Health Data Scientist someday.
 
 ## 🚀 My Current Learning Journey
