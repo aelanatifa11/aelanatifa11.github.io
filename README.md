@@ -18,6 +18,7 @@
 - VS Code
 
 ## 📌 Mini Projects a.k.a. Practice 
+view file here 
 ### 🤖 Simple Chatbot
 A Python chatbot that greets the user and responds to inputs.
 🔗 [See on GitHub](link-ke-folder-project)
@@ -28,5 +29,5 @@ A Python chatbot that greets the user and responds to inputs.
 
 ## 📎 Contact
 - ✉️ Email: aelanatifa.ar@gmail.com
-- 📁 Certificates: 
-- 🔗 [GitHub Projects](https://github.com/namakamu)
+- 📁 Certificates: -
+- 🔗 GitHub Projects: -
