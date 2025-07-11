@@ -8,7 +8,7 @@
 
 ## 🚀 My Current Learning Journey
 - 🔍 Learning Python fundamentals (via Mimo, SoloLearn, LearnPython and more).
-- 📝 Practicing and building smaal projects to sharpen my skills. 
+- 📝 Practicing and building small projects to sharpen my skills. 
 - 🧠 Exploring personal websites using GitHub Pages.
 - 📊 Navigating between Health Data Science & Biotechnology career paths.
 - 🎯 Discovering free tools & platforms that support learning with certification. 
