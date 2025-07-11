@@ -7,7 +7,7 @@
 💡 I want to be a Health Data Scientist someday.
 
 ## 🚀 My Current Learning Journey
-- 🔍 Learning Python fundamentals (via Mimo, SoloLearn, LearnPython and more).
+- 🔍 Learning Python fundamentals (via Mimo, SoloLearn, LearnPython, and more).
 - 📝 Practicing and building small projects to sharpen my skills. 
 - 🧠 Exploring personal websites using GitHub Pages.
 - 📊 Navigating between Health Data Science & Biotechnology career paths.
